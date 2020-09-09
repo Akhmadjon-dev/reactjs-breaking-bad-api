@@ -44,5 +44,5 @@
 *************
 
 From [Akhmadjon](https://akhmadjon-dev.github.io/portfolio-simple/)
-
+ 
 #### Thank You 🙏🏼
